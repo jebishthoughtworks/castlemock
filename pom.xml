@@ -51,7 +51,7 @@
         <commons.lang.version>3.12.0</commons.lang.version>
         <raml.parser.version>1.0.51</raml.parser.version>
         <jaxb.runtime.version>2.3.3</jaxb.runtime.version>
-        <swagger.core.version>1.6.4</swagger.core.version>
+        <swagger.core.version>1.6.9</swagger.core.version>
         <commons.codec.version>1.15</commons.codec.version>
         <junit.jupiter.version>5.7.0</junit.jupiter.version>
         <tomcat.embedd.version>9.0.70</tomcat.embedd.version>
@@ -59,7 +59,7 @@
         <xmlschema.core.version>2.2.5</xmlschema.core.version>
         <maven.compiler.version>3.8.1</maven.compiler.version>
         <spring.boot.version>2.7.7</spring.boot.version>
-        <swagger.parser.version>2.1.9</swagger.parser.version>
+        <swagger.parser.version>2.1.12</swagger.parser.version>
         <maven.war.plugin.version>3.2.3</maven.war.plugin.version>
         <common.beanutils.version>1.9.4</common.beanutils.version>
         <jackson.databind.version>2.11.2</jackson.databind.version>
